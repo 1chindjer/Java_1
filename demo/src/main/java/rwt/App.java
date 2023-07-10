@@ -31,7 +31,7 @@ public class App {
 // }
 
     public static void main(String[] args) {
-        int[] array = {5, 3, 8, 1, 2};
+        int[] array = {5, 3, 8, 1, 2, 6, 10};
         bubbleSort(array);
     }
 
